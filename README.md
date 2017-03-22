@@ -18,4 +18,4 @@ python3-dev`.
 
     cd ~/.vim/bundle/YouCompleteMe
     ./install.py --clang-completer
-* Place .ycm_global_extra_conf.py in `~/.vim/`
+* Place .ycm_global_extra_conf.py in `~/.vim`
